@@ -34,4 +34,8 @@ By using `convert_to_bop.py` and `convert_to_coco.py`, the intermediate `npz` fo
 ## Notes
 * This repo only support scenes with one object inside.
 
+------
+## Dataset Access
+For access to the full dataset, please write an email to `shervin.dehghani@tum.de`.
+
 
