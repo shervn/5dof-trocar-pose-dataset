@@ -59,8 +59,8 @@ By using `convert_to_bop.py` and `convert_to_coco.py`, the intermediate `npz` fo
 ------
 ## Dataset Access
 
-The dataset is uploaded [https://syncandshare.lrz.de/getlink/fiGiJsDAyB2aY1yXVgmfpd/][here]. To receive the password, please write an email to `shervin.dehghani@tum.de` with a short description of the research. The data is in `BOP` format. 
-
+This repo was created to make the dataset of [**Colibri5: Real-Time Monocular 5-DoF Trocar Pose Tracking
+for Robot-Assisted Vitreoretinal Surgery**](https://shervn.github.io/colibri5-page/). The created dataset is uploaded [here](https://syncandshare.lrz.de/getlink/fiGiJsDAyB2aY1yXVgmfpd/). To receive the password, please write an email to `shervin.dehghani@tum.de` with a short description of the research. The data is in `BOP` format. 
 
 
 <img src="data/dataset_preview.png" alt="Dataset Preview">
