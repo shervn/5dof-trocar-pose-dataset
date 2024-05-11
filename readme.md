@@ -59,6 +59,8 @@ By using `convert_to_bop.py` and `convert_to_coco.py`, the intermediate `npz` fo
 ------
 ## Dataset Access
 
-For access to the full dataset, please write an email to `shervin.dehghani@tum.de`. 
+The dataset is uploaded [https://syncandshare.lrz.de/getlink/fiGiJsDAyB2aY1yXVgmfpd/][here]. To receive the password, please write an email to `shervin.dehghani@tum.de` with a short description of the research. The data is in `BOP` format. 
 
 
+
+<img src="data/dataset_preview.png" alt="Dataset Preview">
